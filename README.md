@@ -1,8 +1,6 @@
-# Delphi/Lazarus Template
+# Delphi
 
- Delphi/Lazarus template project
-
-## Delphi
+ Delphi template project
 
 ### RTTI
 
